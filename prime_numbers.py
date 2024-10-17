@@ -1,5 +1,4 @@
-Paste this code to spit out all the prime numbers up to the value of N
-
+# Paste this code to spit out all the prime numbers up to the value of N
 program4 = []
 program4.append("MOV N 50")
 program4.append("PRINT 2")
